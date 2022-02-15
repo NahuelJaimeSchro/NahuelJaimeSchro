@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nahuel Demian Jaime Schröpfer.
-- 👀 I’m interested in learning to code.
+- 👀 I’m interested in learning to code/make webpages.
 - 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate on videogames.
 - 📫 How to reach me in:
